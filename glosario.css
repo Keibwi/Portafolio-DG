@@ -1,0 +1,96 @@
+*{ 
+    font-family:cursive;
+    font-size: 45px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+section{
+    width: 1300px;
+    margin: 50px auto auto;
+}
+.titulo{
+    color: white;
+    text-align: center;
+    background-color: var(--color1);
+    font-size: 70px;
+    margin: auto;
+}
+.glosario{
+    color: white; 
+    background-color: #772E20;
+    margin: auto;
+}
+.texto{
+    color: #DC7F2F;
+    font-size: 25px;
+    text-align: center;
+}
+
+.caja{
+    font-size: 20px;
+}
+
+
+.texto2{
+    color: var(--color5);
+    font-size: 30px;
+}
+
+li{
+    font-size: 20px;
+    text-align: left;
+}
+.titulo_table{
+    font-size: 30px;
+}
+.texto3{
+    color: white;
+    font-family: inherit;
+    text-align: center;
+    background-color: var(--color3);
+    font-size: 30px
+}
+
+.etiquetas{
+    width: 400px;
+    height: 200px;
+}
+
+.img{
+    width: 400px;
+    height: 200px;
+}
+
+.gatito{
+    width: 700px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 50px;
+}
+
+footer{
+    color: white; 
+    text-align: center;
+    background-color: var(--color1);
+}
+.texto4{
+    color: var(--color5);
+    font-size: 40px;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+tr{
+    height: auto;
+    width: auto;
+}
+td{
+    text-align: left;
+    font-size: 20px;
+}
+.css{
+    width: 500px;
+    height: 100px;
+}

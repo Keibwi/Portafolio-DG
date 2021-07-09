@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;/*10px*/
+}
+/*Paleta de colores*/
+:root{
+    --color1:#772E20;
+    --color2:#DC7F2F;
+    --color3:#304390;
+    --color4:#1F1F1F;
+    --color5:#F2620F;
+}
+/*Tamaño de textos*/
+:root{
+    --titulo-h1: 3.6rem;
+    --titulo-h2: 2.4rem;
+    --titulo-h3: 1.8rem;
+    --parrafo: 1.4rem;
+}  

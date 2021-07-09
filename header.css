@@ -1,0 +1,78 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+header{
+    width: 100%;
+    height: 80px;
+    padding: 50px 50px 50px 50px;
+    padding-top: 25px;
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: #772e20;
+    background-image: -webkit-linear-gradient(bottom right, #772e20 29%, #f2620f 100%);
+    background-image: -o-linear-gradient(bottom right, #772e20 29%, #f2620f 100%);
+    background-image: linear-gradient(to top left, #772e20 29%, #f2620f 100%);
+    
+}
+.name{
+    color: #fff;
+    font-size: 35px;
+    
+}
+.nav{
+    list-style: none;
+    width: 200px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+}
+:root{
+    --color1:#772E20;
+    --color2:#DC7F2F;
+    --color3:#304390;
+    --color4:#1F1F1F;
+    --color5:#F2620F;
+}
+.nav li{
+    color: #fff;
+}
+
+.logo{
+    color: #fff;
+    font-size: 20px;
+}
+
+.nav{
+    list-style: none;
+    width: 200px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.nav li{
+    color: #fff;
+}
+.header_inicio{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.header_portafolio{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+@media only screen and (max-width : 375px) {
+    .logo{
+        font-size: 20px;
+    }
+}
