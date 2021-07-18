@@ -1,72 +1,62 @@
 *{ 
-    font-family:cursive;
-    font-size: 45px;
+    font-size: 4.5rem;
     text-align: center;
     width: auto;
     height: auto;
 }
 section{
-    width: 1300px;
-    margin: 50px auto auto;
+    width: 130rem;
+    margin: 5rem;
 }
 .titulo{
     color: white;
-    text-align: center;
     background-color: var(--color1);
-    font-size: 70px;
-    margin: auto;
+    font-size: 7rem;
 }
 .glosario{
     color: white; 
-    background-color: #772E20;
-    margin: auto;
+    background-color: var(--color1);
 }
 .texto{
     color: #DC7F2F;
-    font-size: 25px;
+    font-size: 2.5rem;
     text-align: center;
 }
 
 .caja{
-    font-size: 20px;
+    font-size: 2.5rem;
 }
 
 
 .texto2{
-    color: var(--colomr5);
-    font-size: 30px;
+    color: var(--color5);
+    font-size: 3.5rem;
 }
 
 li{
-    font-size: 20px;
+    font-size: 2.5rem;
     text-align: left;
 }
 .titulo_table{
-    font-size: 30px;
+    font-size: 4rem;
 }
 .texto3{
     color: white;
-    font-family: inherit;
     text-align: center;
     background-color: var(--color3);
-    font-size: 30px
+    font-size: 3rem;
 }
 
 .etiquetas{
-    width: 400px;
-    height: 200px;
-}
-
-.img{
-    width: 400px;
-    height: 200px;
+    width: 40rem;
+    height: 20rem;
 }
 
 .gatito{
-    width: 700px;
-    height: 300px;
+    width: 90rem;
+    height: 30rem;
 
-    margin: 50px;
+    margin: 1rem;
 }
 
 footer{
@@ -76,21 +66,16 @@ footer{
 }
 .texto4{
     color: var(--color5);
-    font-size: 40px;
+    font-size: 3rem;
 }
 .table{
-    margin-left: auto;
-    margin-right: auto;
-}
-tr{
-    height: auto;
-    width: auto;
+    margin: auto;
 }
 td{
     text-align: left;
-    font-size: 20px;
+    font-size: 2.5rem;
 }
 .css{
-    width: 500px;
-    height: 100px;
+    width: 50rem;
+    height: 10rem;
 }
