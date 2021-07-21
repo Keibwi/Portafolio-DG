@@ -21,16 +21,17 @@ section{
     color: #DC7F2F;
     font-size: 2.5rem;
     text-align: center;
+    margin-top: 2rem;
 }
 
 .caja{
     font-size: 2.5rem;
+    color: black;
 }
-
-
 .texto2{
     color: var(--color5);
     font-size: 3.5rem;
+    margin-top: 2rem;
 }
 
 li{
@@ -40,11 +41,16 @@ li{
 .titulo_table{
     font-size: 4rem;
 }
+
+.tabla_etiquetas{
+        margin-top: 1.5rem;
+}
 .texto3{
     color: white;
     text-align: center;
     background-color: var(--color3);
     font-size: 3rem;
+    margin-top: 2rem;
 }
 
 .etiquetas{
@@ -74,6 +80,7 @@ footer{
 td{
     text-align: left;
     font-size: 2.5rem;
+    color: white;
 }
 .css{
     width: 50rem;
