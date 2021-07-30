@@ -6,13 +6,13 @@
 
 ### *Colegio Santa Catalina Laboure* 
 
-Nombre: Karen Stephanye Ical Boror
+**Nombre:** Karen Stephanye Ical Boror
 
-Carrera: IV Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
+**Carrera:** IV Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
 
-Materia: Diseño Computarizado
+**Materia:** Diseño Computarizado
 
-Profesor: Jossue Emmanuel Fuentes
+**Profesor:** Jossue Emmanuel Fuentes
 
 ># 2) ÍNDICE 📋
 
