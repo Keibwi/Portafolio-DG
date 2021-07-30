@@ -2,7 +2,7 @@
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/Portafolio%20iii%20unidad.jpg)
 
-># DATOS GENERALES 😎
+># 1) DATOS GENERALES 😎
 
 ### *Colegio Santa Catalina Laboure* 
 
@@ -14,19 +14,23 @@ Materia: Diseño Computarizado
 
 Profesor: Jossue Emmanuel Fuentes
 
-># ÍNDICE 📋
+># 2) ÍNDICE 📋
 
-1 **Portada**..................................................1
+1 **Portada**..........................................................................................1
 
-2 **Anteportada**........................................2
+2 **Anteportada**.................................................................................2
 
-3 **Índice**......................................................3
+3 **Índice**...............................................................................................3
 
-4 **Objetivos**...............................................4
+4 **Objetivos**........................................................................................4
 
-5 **
+5 **La práctica hace al maestro**....................................................5
 
-># OBJETIVOS 🚩
+6 **Home-page in responsive design**........................................6
+
+7 **Primer avance del glosario en mobil**..................................7
+
+># 3) OBJETIVOS 🚩
 
 #### 1. Memorizar todo el código que veamos y analizar cada una de sus funciones.
 
@@ -34,12 +38,18 @@ Profesor: Jossue Emmanuel Fuentes
 
 #### 3. Practicar hacer trabajos con nuevas etiquetas asi mejorar con cada una y memorizarlas de mejor manera 
 
-># DOCUMENTACIÓN 🗃
+># 4) DOCUMENTACIÓN 🗃
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
 
+[La práctica hace al maestro ☝️](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
+
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
 
+[Home-page in responsive design ☝️](https://keibwi.github.io/Portafolio-DG/ "Home-page in responsive design")
+
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/4.jpg)
+
+[Primer avance del glosario en mobil ☝️](https://keibwi.github.io/Portafolio-DG/ "Primer avance del glosario en mobil")
 
 # Espero sea de tu agrado mi portafolio 😁🤩
