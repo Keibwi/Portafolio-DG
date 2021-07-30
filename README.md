@@ -35,3 +35,11 @@ Profesor: Jossue Emmanuel Fuentes
 #### 3. Practicar hacer trabajos con nuevas etiquetas asi mejorar con cada una y memorizarlas de mejor manera 
 
 ># DOCUMENTACIÓN 🗃
+
+![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
+
+![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
+
+![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/4.jpg)
+
+# Espero sea de tu agrado mi portafolio 😁🤩
