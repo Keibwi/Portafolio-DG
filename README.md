@@ -56,4 +56,10 @@
 
 [Portafolio "Glosario" ☝️](https://keibwi.github.io/Portafolio-DG/)
 
+># 4) OBJETIVOS FUTUROS 🚩
+
+#### 1. **Organización:** Hacer una agenda para organizar mi tiempo y asi poder terminar a tiempo mis trabajos.
+
+#### 2. **Propósito:** Poder realizar mas trabajos creativos y acorde a cada tema para que al final todo se vea muy bien.
+
 # Espero sea de tu agrado mi portafolio 😁🤩
