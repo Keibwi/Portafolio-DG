@@ -44,19 +44,19 @@
 
 ># DOCUMENTACIÓN 🗃
 
-># 5) [La práctica hace al maestro](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
+># 5) [La práctica hace al maestro 👈](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
 
-># 6) [Home-page in responsive design](https://keibwi.github.io/Portafolio-DG/ "Home-page in responsive design")
+># 6) [Home-page in responsive design 👈](https://keibwi.github.io/Portafolio-DG/ "Home-page in responsive design")
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
 
-># 7) [Primer avance del glosario en mobil](https://keibwi.github.io/Portafolio-DG/ "Primer avance del glosario en mobil")
+># 7) [Primer avance del glosario en mobil 👈](https://keibwi.github.io/Portafolio-DG/ "Primer avance del glosario en mobil")
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/4.jpg)
 
-># 8) [Portafolio "Glosario"](https://keibwi.github.io/Portafolio-DG/)
+># 8) [Portafolio "Glosario" 👈](https://keibwi.github.io/Portafolio-DG/)
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/5.png)
 
@@ -66,4 +66,4 @@
 
 #### 2. **Propósito:** Poder realizar mas trabajos creativos y acorde a cada tema para que al final todo se vea muy bien.
 
-# Espero sea de tu agrado mi portafolio 😁🤩
+# Espero sea de tu agrado mi portafolio 😁👊
