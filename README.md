@@ -1,6 +1,6 @@
 # Portafolio Diseño Computarizado
 
-![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/Portafolio%20iii%20unidad.jpg)
+![]( https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/Portada3.jpg)
 
 ># 2) DATOS GENERALES 😎
 
