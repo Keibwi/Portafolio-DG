@@ -2,7 +2,7 @@
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/Portafolio%20iii%20unidad.jpg)
 
-># 1) DATOS GENERALES 😎
+># 2) DATOS GENERALES 😎
 
 ### *Colegio Santa Catalina Laboure* 
 
@@ -14,7 +14,7 @@
 
 **Profesor:** Jossue Emmanuel Fuentes
 
-># 2) ÍNDICE 📋
+># 3) ÍNDICE 📋
 
 1 **Portada**..........................................................................................1
 
@@ -30,7 +30,7 @@
 
 7 **Primer avance del glosario en mobil**..................................7
 
-># 3) OBJETIVOS 🚩
+># 4) OBJETIVOS 🚩
 
 #### 1. Memorizar todo el código que veamos y analizar cada una de sus funciones.
 
@@ -40,9 +40,9 @@
 
 ># 4) DOCUMENTACIÓN 🗃
 
-![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
+># 4) [La práctica hace al maestro ☝️](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
 
-[La práctica hace al maestro ☝️](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
+![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
 
