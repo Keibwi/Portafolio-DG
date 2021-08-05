@@ -42,7 +42,7 @@
 
 #### 3. Practicar hacer trabajos con nuevas etiquetas asi mejorar con cada una y memorizarlas de mejor manera 
 
-># DOCUMENTACIÓN 🗃
+## DOCUMENTACIÓN 🗃
 
 ># 5) [La práctica hace al maestro 👈](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
 
