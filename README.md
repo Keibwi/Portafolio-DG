@@ -30,6 +30,8 @@
 
 7 **Primer avance del glosario en mobil**..................................7
 
+8 **Objetivos futuros**............................................................................8
+
 ># 4) OBJETIVOS 🚩
 
 #### 1. Memorizar todo el código que veamos y analizar cada una de sus funciones.
@@ -38,25 +40,25 @@
 
 #### 3. Practicar hacer trabajos con nuevas etiquetas asi mejorar con cada una y memorizarlas de mejor manera 
 
-># 4) DOCUMENTACIÓN 🗃
+># DOCUMENTACIÓN 🗃
 
-># 4) [La práctica hace al maestro ☝️](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
+># 4) [La práctica hace al maestro](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
 
+># 5) [Home-page in responsive design ☝️](https://keibwi.github.io/Portafolio-DG/ "Home-page in responsive design")
+
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
 
-[Home-page in responsive design ☝️](https://keibwi.github.io/Portafolio-DG/ "Home-page in responsive design")
+># 6) [Primer avance del glosario en mobil ☝️](https://keibwi.github.io/Portafolio-DG/ "Primer avance del glosario en mobil")
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/4.jpg)
 
-[Primer avance del glosario en mobil ☝️](https://keibwi.github.io/Portafolio-DG/ "Primer avance del glosario en mobil")
+># 7) [Portafolio "Glosario" ☝️](https://keibwi.github.io/Portafolio-DG/)
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/5.png)
 
-[Portafolio "Glosario" ☝️](https://keibwi.github.io/Portafolio-DG/)
-
-># 4) OBJETIVOS FUTUROS 🚩
+># 8) OBJETIVOS FUTUROS 🚩
 
 #### 1. **Organización:** Hacer una agenda para organizar mi tiempo y asi poder terminar a tiempo mis trabajos.
 
