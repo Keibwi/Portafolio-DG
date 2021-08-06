@@ -2,6 +2,7 @@
     font-size: 25px;
     margin: auto;
     width: auto;
+    margin-top: 20px;
 }
 
 section{
@@ -54,4 +55,32 @@ td{
 footer{
     margin: auto;
     font-size: 25px;
+}
+.text{
+    font-size: 25px;
+    padding-top: 20px;
+}
+.text2{
+    font-size: 20px;
+    padding-top: 15px;
+}
+.text3{
+    font-size: 15px;
+    padding-top: 10px;
+}
+.clasi{
+    font-size: 30px;
+    padding-top: 50px;
+}
+.caja2{
+    width: auto;
+    padding: auto;
+}
+.caja4{
+    font-size: 10px;
+}
+.caja5{
+    font-size: 11px;
+    text-align: left;
+    padding: auto;
 }
