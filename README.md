@@ -52,7 +52,7 @@
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
 
-># 7) [Primer avance del glosario en mobil 👈](https://keibwi.github.io/Portafolio-DG/Glosario.html")
+># 7) [Primer avance del glosario en mobil 👈](https://keibwi.github.io/Portafolio-DG/Glosario.html)
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/4.jpg)
 
