@@ -44,15 +44,15 @@
 
 ## DOCUMENTACIÓN 🗃
 
-># 5) [La práctica hace al maestro 👈](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0 "La práctica hace al maestro")
+># 5) [La práctica hace al maestro 👈](https://drive.google.com/file/d/1Abm9z6Dke5_EaoE0yk4-FwEHuVC2_HaY/view?usp=drive_web&authuser=0)
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/2.jpg)
 
-># 6) [Home-page in responsive design 👈](https://keibwi.github.io/Portafolio-DG/ "Home-page in responsive design")
+># 6) [Home-page in responsive design 👈](https://keibwi.github.io/Portafolio-DG/)
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/3.jpg)
 
-># 7) [Primer avance del glosario en mobil 👈](https://keibwi.github.io/Portafolio-DG/ "Primer avance del glosario en mobil")
+># 7) [Primer avance del glosario en mobil 👈](https://keibwi.github.io/Portafolio-DG/Glosario.html")
 
 ![](https://github.com/Keibwi/Portafolio-DG/blob/main/imagenes/4.jpg)
 
