@@ -31,7 +31,8 @@
 }
  
 .btn_banner:hover{
-    width: 15rem;
+    display: block;
+    background-color: transparent;
     transition: 0.3s;
 }
 .header_inicio:hover{

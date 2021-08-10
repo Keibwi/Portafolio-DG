@@ -84,3 +84,10 @@ footer{
     text-align: left;
     padding: auto;
 }
+.regla{
+    width: 360px;
+    height: 200px;
+}
+.name{
+    font-size: 25px;
+}

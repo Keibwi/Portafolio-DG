@@ -3,16 +3,18 @@
     text-align: center;
     width: auto;
     height: auto;
+    margin: auto;
 }
 section{
     width: 130rem;
-    margin: 5rem;
+    margin: auto;
 }
 
 .titulo{
     color: white;
     background-color: var(--color1);
     font-size: 7rem;
+    margin-top: 2.5rem;
 }
 
 .glosario{
@@ -76,8 +78,8 @@ li{
 .gatito{
     width: 90rem;
     height: 30rem;
-
     margin: 1rem;
+    margin-left: 200px;
 }
 
 .texto4{
@@ -133,6 +135,9 @@ a{
     color: black;
     font-size: 20px;
 }
+.caja6{
+    margin: auto;
+}
 .clasi{
     color: black;
     font-size: 60px;
@@ -152,3 +157,7 @@ a{
     font-size: 2.5rem;
     padding-top: 1.5rem;
 }
+.regla{
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;}
