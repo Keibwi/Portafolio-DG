@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="es"> 
+<head> 
+    <meta charset="UTF-8">
+    <title>
+     Glosario
+    </title>
+    
+    <link rel="stylesheet" href="general.css">
+    
+    <link rel="stylesheet" href="glosario.css">
+    
+    <link rel="stylesheet" href="header.css">
+    
+    <link rel="stylesheet" href="index.css">
+    
+    <link rel="stylesheet" href="phoneheader.css" media="(max-width: 376px)">
+    
+    <link rel="stylesheet" href="phoneglosario.css" media="(max-width: 376px)">
+     
+    <link rel="stylesheet" href="estilos.css">
+      
+      
+    <!--Configuracion movil-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<header>
+    <div class="logo">
+       <h1 class="name">
+           Karen Ical
+       </h1>
+     </div>
+        
+         <ul class="nav">
+             <li>
+                 <a href="index.html" class="header_inicio">
+                     Inicio
+                 </a>
+             </li>
+             <li>
+                 <a href="Etiquetas_HTML.html" class="header_portafolio">
+                     Glosario
+                 </a>
+             </li>
+         </ul>         
+     
+</header>
+
+
+
+<section >            
+        <h1 class="titulo">ETIQUETAS HTML</h1>
+        <h1 class="glosario">GLOSARIO</h1>
+</section> 
+        
+<section > 
+        <h2 class="texto">
+            En HTML y CSS tenemos diferente tipos de etiquetas cada uno con un propósito en particular una etiqueta se puede componere de dos maneras.
+        </h2> 
+        
+</section>
+        
+<section >     
+
+    <h1 class="text">
+        🦋TIPOS DE ETIQUETAS🦋
+    </h1>
+
+    <h2 class="text2">
+        Etiquetas que solo se aperturan:
+    </h2>
+    <p class="text3">
+        Este tipo de etiqueta común mente se utilizan para indicar una dirección u origen se 
+        componen por argumento u opciones tales como src href. 
+    </p>
+    <h2  class="text2">
+        Etiquetas que tienen una apertura y un cierre:
+    </h2>
+    <p class="text3">
+        Este tipo de etiquetas común mente se utilizan para encerrar un contenido tales como texto img entre otros.
+    </p>
+
+</section>
+            
+
+<section>
+    <h1 class="clasi">Esquema del documento</h1>
+    <table class="caja2">
+        <tr class="caja3">
+            <th class="caja4">Etiqueta</th>
+            <th class="caja4">Descripción</th>
+            <th class="caja4">Ejemplo</th>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;!DOCTYPE&#62;</td>
+            <td class="caja5">Su función es la de informar al navegador sobre el tipo de documento que 
+                va a cargar así como de informar sobre la codificación de caracteres.</td>
+            <td class="caja5"> &#60;!DOCTYPE html&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;html&#62;</td>
+            <td class="caja5">Representa la raiz de un documento HTML. El resto de elementos descienden de este elemento.</td>
+            <td class="caja5">&#60;html lang="es" <br>,"en","de"&#62; <br> Idioma: español, inglés, alemán</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;head&#62;</td>
+            <td class="caja5">Provee información general (metadatos) acerca del documento, incluyendo su título y 
+                enlaces a scripts y hojas de estilos.</td>
+            <td class="caja5">&#60;head&#62; &#60;/head&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;body&#62;</td>
+            <td class="caja5">Representa el contenido de un documento HTML. 
+                Solo puede haber un elemento &#60;body&#62; en un documento.</td>
+            <td class="caja5">&#60;body&#62; &#60;/body&#62;</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h1 class="clasi">Información de la página</h1>
+    <table class="caja2">
+        <tr class="caja3">
+            <th class="caja4">Etiqueta</th>
+            <th class="caja4">Descripción</th>
+            <th class="caja4">Ejemplo</th>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;base&#62;</td>
+            <td class="caja5">Permite especificar una URL por defecto y un destino por 
+                defecto para todos los enlaces relativos del documento web.</td>
+            <td class="caja5"> &#60;base href &#61;"&#35;"&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;meta&#62;</td>
+            <td class="caja5">Se incorporan en el encabezado de una página web y que resultan invisibles para un visitante, 
+                pero de gran utilidad para navegadores u otros programas que puedan valerse de esta.</td>
+            <td class="caja5">&#60;meta <br> charset="UTF-8"&#62; </td> 
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;meta&#62;(2)</td>
+            <td class="caja5">Tiene que ver con la compatibilidad del navegador donde se esta consultando la página web, 
+                y donde en el atributo content, el valor ie=edge se refiere al viejo navegador Internet Explorer</td>
+            <td class="caja5">&#60;meta http-equiv= <br> "X-UA-Compatible" content="IE=edge"&#62; </td> 
+        </tr>
+
+        <tr class="caja3">
+            <td class="caja5">&#60;meta&#62;(3)</td>
+            <td class="caja5">
+                La declaración viewport nos permite definir los parámetros de visualización de un página web en los diferentes dispositivos. 
+                Consiste en una metaetiqueta mediante la que se establece si se puede hacer zoom en una página, el zoom inicial o la anchura de la pantalla del dispositivo.</td>
+            <td class="caja5">&#60;meta name="viewport" <br> content="width= <br> device-width, initial-scale=1.0"&#62; </td> 
+        </tr>
+
+        <tr class="caja3">
+            <td class="caja5">&#60;title&#62;</td>
+            <td class="caja5">Permite darle un título a una página web.</td>
+            <td class="caja5">&#60;title&#62; &#60;/title&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;link&#62;</td>
+            <td class="caja5">Especifica la relación entre el documento actual y un recurso externo. <br> Este elemento es más frecuentemente usado para enlazar hojas de estilos.</td>
+            <td class="caja5">&#60;link rel&#61;"stylesheet" href"&#35;"&#62;</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h1 class="clasi">Estructura del documento</h1>
+    <table class="caja2">
+        <tr class="caja3">
+            <th class="caja4">Etiqueta</th>
+            <th class="caja4">Descripción</th>
+            <th class="caja4">Ejemplo</th>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;h[1-6]&#62;</td>
+            <td class="caja5"> Implementan seis niveles en el encabezado del documento, 
+                &#60;h1&#62; es el más importante, y &#60;h6&#62;, el menos importante.</td>
+            <td class="caja5">&#60;h[1-6]&#62; &#60;/h[1-6]&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;div&#62;</td>
+            <td class="caja5">Sirve para crear secciones o agrupar contenidos.</td>
+            <td class="caja5">&#60;div&#62; &#60;/div&#62;</td> 
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;p&#62;</td>
+            <td class="caja5">Es el apropiado para distribuir el texto en párrafos.</td>
+            <td class="caja5">&#60;p&#62; &#60;/p&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;br&#62;</td>
+            <td class="caja5">Produce un salto de línea en el texto.</td>
+            <td class="caja5">&#60;br&#62;</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h1 class="clasi">Enlaces</h1>
+    <table class="caja2">
+        <tr class="caja3">
+            <th class="caja4">Etiqueta</th>
+            <th class="caja4">Descripción</th>
+            <th class="caja4">Ejemplo</th>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;a&#62;</td>
+            <td class="caja5">Crea un enlace a otras páginas de internet, archivos o 
+                ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL. <br> href="#" se utiliza para indicar
+            la URL a la que apunta el enlace.</td>
+            <td class="caja5">&#60;a href="&#35;"&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;Img&#62;</td>
+            <td class="caja5">Representa a una imagen, lo cual es un recurso externo que puede ser incrustado en el cuerpo de un documento. 
+                La ubicación de dicho recurso externo debe especificarse en el atributo src y el atributo alt asigna un texto equivalente a un objetos.</td>
+            <td class="caja5">&#60;img src="&#35;" alt="&#35;"&#62;</td>
+    </table>
+</section>
+
+<section>
+    <h1 class="clasi">Listas</h1>
+    <table class="caja2">
+        <tr class="caja3">
+            <th class="caja4">Etiqueta</th>
+            <th class="caja4">Descripción</th>
+            <th class="caja4">Ejemplo</th>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;ol&#62;</td>
+            <td class="caja5">Permite definir listas o viñetas ordenadas, bien con numeración o alfabéticamente.</td>
+            <td class="caja5">&#60;ol&#62; &#60;/ol&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;ul&#62;</td>
+            <td class="caja5">Representa una lista no ordenada de ítems que, en contraste con las lista ordenadas (ol),
+                 no produce significados diferentes si el orden de los ítems es alterado.</td>
+            <td class="caja5">&#60;ul&#62; &#60;/ul&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;li&#62;</td>
+            <td class="caja5">Declara cada uno de los elementos de una lista.</td>
+            <td class="caja5">&#60;li&#62; &#60;/li&#62;</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h1 class="clasi">Tablas</h1>
+    <table class="caja2">
+        <tr class="caja3">
+            <th class="caja4">Etiqueta</th>
+            <th class="caja4">Descripción</th>
+            <th class="caja4">Ejemplo</th>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;table&#62;</td>
+            <td class="caja5">Permiten a los autores representar información tabulada en un documento. En lo que respecta al código, 
+                una tabla consiste básicamente de un grupo de filas que contiene, cada una, a un grupo de celdas.</td>
+            <td class="caja5">&#60;table&#62; &#60;/table&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;thead&#62;</td>
+            <td class="caja5">define una sección de encabezado en una tabla.</td>
+            <td class="caja5">&#60;thead&#62; &#60;/thead&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;tr&#62;</td>
+            <td class="caja5">Define una fila de celdas en una tabla.</td>
+            <td class="caja5">&#60;tr&#62; &#60;/tr&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;td&#62;</td>
+            <td class="caja5">Define la celda de una tabla que contiene datos.</td>
+            <td class="caja5">&#60;td&#62; &#60;/td&#62;</td>
+        </tr>
+        <tr class="caja3">
+            <td class="caja5">&#60;th&#62;</td>
+            <td class="caja5">Define una celda como encabezado de un grupo de celdas en una tabla.</td>
+            <td class="caja5">&#60;th&#62; &#60;/th&#62;</td>
+        </tr>
+    </table>
+</section>
+
+<section class="section3">
+    <p class="texto3">   
+    Como se conecta un css en html <br>
+  
+    Se debe colocar una etiqueta la cual debe ir en este orden:
+
+[link rel="stylesheet" href="css.css"]
+
+poniendo el nombre al elemento que se desea conectar.
+
+En este caso se conecta un html con un "css"
+    </p>
+</section>
+
+
+<section >
+   
+    <img src="imagenes/gatito.gif" class="gatito" alt="Funny image">
+    
+</section>
+
+
+<section>
+    <table class="caja6">
+
+        <tr class="caja3">
+
+            <th class="caja4">
+                <a href="Etiquetas_HTML.html">1</a>
+            </th>
+
+            <th class="caja4">
+                <a href="Propiedades_CSS.html">2</a>
+            </th>
+
+            <th class="caja4">
+                <a href="Extras.html">3</a>
+            </th>
+
+        </tr>
+
+    </table>
+</section>
+
+
+
+</body>
+</html>
